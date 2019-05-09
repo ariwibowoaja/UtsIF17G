@@ -1,2 +1,2 @@
 # UtsIF17G
-Tugas Untuk UTS
+Tugas Untuk UTS Kelas IF17G
